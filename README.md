@@ -1,4 +1,4 @@
-# RShiny Masterclass 1 Challenge
+# RShiny Masterclass: Session 1 Challenge
 
 - Create a new repository on GitHub
 - Create a new project in RStudio Cloud from this git repository
